@@ -1,16 +1,9 @@
-# mobile_assessment
+Hello Doctor,
+Hope you're having a good day,
 
-A new Flutter project.
+I just wanted to let you know that this assessment took me around five hours to complete, and I wrote all the comments myself (yes I wrote the comments; I didn't use chatgpt).
 
-## Getting Started
+I’ve put a lot of effort into this, and I hope that this can show in the code.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you!
+Aya Hamadani
